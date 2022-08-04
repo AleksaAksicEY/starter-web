@@ -23,4 +23,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-Aleksa.Aksic
+Aleksa Aksic 2022. All rightd reserved.
