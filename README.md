@@ -14,3 +14,7 @@ Sample website with plenty of files for demos, *some change in the text*
 ## Deployment
 
 ## How to contribute
+
+### Copyright
+
+Aleksa.Aksic
